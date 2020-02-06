@@ -1,6 +1,8 @@
 Code Book.
 
-The run_analysis.R that does the following:
+First, you need download the dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and then extract it under the folder called UCI HAR Dataset.
+
+The R Script, run_analysis.R does the following:
 
 Step 1. Merges the training and the test sets to create one data set.
 Step 2. Extracts only the measurements on the mean and standard deviation for each measurement.
